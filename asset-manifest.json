@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/umair-rao/Todo-list-with-React/static/css/main.a02b6d67.css",
-    "main.js": "/umair-rao/Todo-list-with-React/static/js/main.2edef163.js",
+    "main.js": "/umair-rao/Todo-list-with-React/static/js/main.4bcb80e4.js",
     "index.html": "/umair-rao/Todo-list-with-React/index.html",
     "main.a02b6d67.css.map": "/umair-rao/Todo-list-with-React/static/css/main.a02b6d67.css.map",
-    "main.2edef163.js.map": "/umair-rao/Todo-list-with-React/static/js/main.2edef163.js.map"
+    "main.4bcb80e4.js.map": "/umair-rao/Todo-list-with-React/static/js/main.4bcb80e4.js.map"
   },
   "entrypoints": [
     "static/css/main.a02b6d67.css",
-    "static/js/main.2edef163.js"
+    "static/js/main.4bcb80e4.js"
   ]
 }
